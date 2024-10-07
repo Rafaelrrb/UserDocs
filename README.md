@@ -1,4 +1,4 @@
-#Documentação do Projeto
+# Documentação do Projeto
 
 Este projeto consiste em duas partes: uma API e uma interface web. Ambas possuem seus próprios arquivos README, que fornecem orientações detalhadas sobre como configurar e executar cada parte do projeto.
 
